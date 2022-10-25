@@ -6,8 +6,8 @@ nav {
     background: #185612;
   }
   nav ul {
-    margin: 0;
-    padding:0;
+    margin: 1;
+    padding: 1px;
     list-style: none;
   }
   .nav a {
